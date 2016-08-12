@@ -3,8 +3,9 @@ void main()
 {
 int a,c;
 //add calculator function
+}
 int add(int p,q)
 {
-  return p,q;
+  
 }
 
