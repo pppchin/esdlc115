@@ -1,6 +1,10 @@
 #include<stdio.h>
 void main()
 {
-int a,b,c;
+int a,c;
 //add calculator function
+int add(int p,q)
+{
+  return p,q;
 }
+
